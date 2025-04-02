@@ -3,4 +3,4 @@
 ## プレイ動画
 ![プレイ動画](Demo/DemoMovie.mp4)
 
-https://github.com/kqlnei/TwoH2O/tree/main/MIZU/Assets/k.k/script
+担当箇所　https://github.com/kqlnei/TwoH2O/tree/main/MIZU/Assets/k.k/script
