@@ -4,9 +4,9 @@
 ![プレイ動画(mp4)](Demo/DemoMovie.mp4)
 
 ![プレイ動画(gif)](Demo/DemoMovie.gif)
-!(Demo/DemoMovie (1).gif)
-!(Demo/DemoMovie (2).gif)
-!(Demo/DemoMovie (3).gif)
+![](Demo/DemoMovie (1).gif)
+![](Demo/DemoMovie (2).gif)
+![](Demo/DemoMovie (3).gif)
 
 
 
